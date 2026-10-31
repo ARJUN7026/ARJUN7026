@@ -11,7 +11,7 @@ I'm a Design Engineer in the mechanical field and study AI alongside my work. I'
 
 ## Education & Learning
 - Diploma in Mechanical Engineering
-- B.E. in Mechanical Engineering (in progress)
+- B.E. in Mechanical Engineering (currently studying)
 - Learning Artificial Intelligence (AI), machine learning, and Python alongside my work
 
 ## Featured Projects
