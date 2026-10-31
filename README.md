@@ -2,7 +2,7 @@
 
 ### Mechanical Design Engineer | Exploring Artificial Intelligence
 
-I work as a Design Engineer in the mechanical field and study AI alongside my work. I'm interested in practical ways AI can support engineering and design.
+I'm a Design Engineer in the mechanical field and study AI alongside my work. I'm interested in practical ways AI can support engineering and design.
 
 ## About
 - **Field:** Mechanical Engineering
@@ -11,7 +11,7 @@ I work as a Design Engineer in the mechanical field and study AI alongside my wo
 
 ## Education & Learning
 - Diploma in Mechanical Engineering
-- B.E. in Mechanical Engineering
+- Currently studying for a B.E. in Mechanical Engineering
 - Learning Artificial Intelligence (AI), machine learning, and Python alongside my work
 
 ## Featured Projects
