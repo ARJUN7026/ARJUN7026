@@ -7,11 +7,12 @@ I work as a Design Engineer in the mechanical field and study AI alongside my wo
 ## About
 - **Field:** Mechanical Engineering
 - **Role:** Design Engineer
-- **Currently learning:** Artificial Intelligence (AI), machine learning, and Python
 - **Interests:** AI for engineering, design automation, and practical problem-solving
 
-## Education
-- Mechanical Engineering
+## Education & Learning
+- Diploma in Mechanical Engineering
+- B.E. in Mechanical Engineering
+- Learning Artificial Intelligence (AI), machine learning, and Python alongside my work
 
 ## Featured Projects
 - [Calculator Assistant](https://github.com/ARJUN7026/calculator-assistant) — A Python command-line calculator that handles arithmetic expressions and common phrases.
